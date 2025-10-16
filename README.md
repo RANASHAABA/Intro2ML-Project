@@ -15,4 +15,10 @@ This repository contains the baseline XGBoost model implementation for the insul
   - xgboost
   - matplotlib
   - seaborn
+ 
+## Dataset
+The dataset used for this project can be accessed online at: [Dataset Link]([https://example.com/dataset](https://data.mendeley.com/datasets/3hbcscwz44/1))
+
+Please download the dataset and place it in the same directory as the notebook before running the code.
+
 
